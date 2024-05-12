@@ -1,6 +1,6 @@
 # Welcome to Gully League 🏏
 
-Hello! Welcome to the Github page of Gully League, the ultimate cricket score keeping app. We're a small startup based in Melbourne, Australia. We are looking to improve the cricket experience for local cricketers using technology, and expand the sport we love to even bigger audiences around the world.
+Hello! Welcome to the Github page of [Gully League](https://gullyleague.com/), the ultimate cricket score keeping app. We're a small startup based in Melbourne, Australia. We are looking to improve the cricket experience for local cricketers using technology, and expand the sport we love to even bigger audiences around the world.
 
 ## What is Gully League?
 Gully League isn't just another score keeping app; it's a game-changer for cricket enthusiasts at every level. Say goodbye to pen and paper and hello to a seamless, intuitive scoring experience that puts all the information you need right at your fingertips. Whether you're playing in the backyard with friends or competing in a professional league, Gully League is your go-to companion for keeping track of every run, wicket, and over.
